@@ -238,3 +238,6 @@ This repository serves as the official landing page for Moffsoft FreeCalc. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Moffsoft FreeCalc today!**
+
+---
+**Last updated:** 2026-09-10 23:38:52 UTC
