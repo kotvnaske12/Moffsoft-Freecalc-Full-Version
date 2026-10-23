@@ -240,4 +240,4 @@ This repository serves as the official landing page for Moffsoft FreeCalc. The s
 **Get the most recent version of Moffsoft FreeCalc today!**
 
 ---
-**Last updated:** 2026-10-23 20:47:40 UTC
+**Last updated:** 2026-10-23 23:39:45 UTC
